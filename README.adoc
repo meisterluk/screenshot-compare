@@ -45,7 +45,7 @@ How to install
 You can run `go get`:
 
 [source,bash]
-go get github.com/GrmlForensic/screenshot-compare
+go get github.com/GrmlForensic/screenshot-compare/v1
 
 and start developing! 😊 You can build the executable using:
 
